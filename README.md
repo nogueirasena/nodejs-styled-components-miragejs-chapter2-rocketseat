@@ -1,6 +1,6 @@
 <!-- Logotipo -->
 <div align="center">
-  <img src="./Assets/ignite.png">
+  <img src="https://github.com/brunoemferreira/rocketseat-ignite-dt-money/raw/main/Assets/ignite.png">
 </div>
 
 <!-- Title -->
@@ -25,13 +25,13 @@ DT Money é um controle de contas financeiro pessoal que cadastra contas de entr
 
 ## 🖼️ Imagens do Projeto
 <div align="center">
-  <img src="./Assets/tela1.png">
+  <img src="https://github.com/brunoemferreira/rocketseat-ignite-dt-money/raw/main/Assets/tela1.png">
 </div>
 <div align="center">
-  <img src="./Assets/tela2.png">
+  <img src="https://github.com/brunoemferreira/rocketseat-ignite-dt-money/raw/main/Assets/tela2.png">
 </div>
 <div align="center">
-  <img src="./Assets/tela3.png">
+  <img src="https://github.com/brunoemferreira/rocketseat-ignite-dt-money/raw/main/Assets/tela3.png">
 </div>
 
 ## 🧰 Tecnologias e Bibliotecas
@@ -49,7 +49,7 @@ DT Money é um controle de contas financeiro pessoal que cadastra contas de entr
 ## ⚙️ Rodando o Projeto
 ```bash
 # Clone este repositório para a pasta anterior
-$ git clone https://github.com/brunoemferreira/rocketseat-ignite-dt-money.git
+$ git clone https://github.com/nogueirasena/nodejs-styled-components-miragejs-chapter2-rocketseat.git
 # ou use a opção de download.
 
 # Acesse a pasta dtmoney
